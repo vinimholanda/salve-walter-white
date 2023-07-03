@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(../images/background-walter.png);
+}
+
+#titulo-principal{
+    color: #fff;
+    font-weight: bold;
+    font-size: 112px;
+    margin-top: 20px;
+    text-align: center;
+}   
+
+#subtitulo{
+    color: #fff54f;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#imagem1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imagem2{
+    float: left;
+    margin-left: 580px;
+    margin-top: 40px;
+}
+
+.imagem3-4{
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#imagem5{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imagem6{
+    display: block;
+    float: left;
+    margin-top: 20px;
+    margin-left: 650px;
+}
+
+#imagem7{
+    display: block;
+    float: left;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+#paragrafo1{
+    color: #fff54f;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-weight: bold;
+    width: 650px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 560px;
+}
+
+#paragrafo2{
+    color: #fff54f;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-weight: bold;
+    font-size: 21px;
+    width: 650px;
+    margin-top: 20px;
+    margin-left: 560px;
+}
+
+#paragrafos-finais{
+    color: #FFF;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-weight: bold;
+    font-size: 21px;
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 560px;
+    margin-bottom: 0px;
+}
+
+#avisos{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#aviso1{
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-weight: bold;
+    font-size: 42px;
+    color: #fff54f;
+}
+
+#aviso2{
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-weight: bold;
+    font-size: 42px;
+    color: #FDEE00;
+}
+
+#banner{
+    display: block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#box-visitantes{
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 850px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.clear{
+    clear: both;
+}
